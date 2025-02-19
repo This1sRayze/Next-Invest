@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  --font-josefin-sans: "Josefin Sans";
+  --font-roboto: Roboto;
+
+  --font-size-base: 16px;
+  --font-size-lg: 18px;
+  --font-size-5xl: 24px;
+  --font-size-lgi: 19px;
+  --font-size-29xl: 48px;
+  --font-size-19xl: 38px;
+  --font-size-10xl: 29px;
+  --font-size-xs: 12px;
+  --font-size-sm: 14px;
+
+  --white: #fff;
+  --color-whitesmoke: #ececec;
+  --grey-1: #333;
+  --primary: #128b76;
+  --color-lightseagreen: #38b39c;
+  --grey-2: #999;
+  --secondary: #f66b8d;
+  --color-palevioletred-100: #db5273;
+  --color-palevioletred-200: rgba(219, 82, 115, 0.09);
+
+  --gap-11xl: 30px;
+  --gap-base: 16px;
+  --gap-5xl: 24px;
+  --gap-21xl: 40px;
+  --gap-xl: 20px;
+  --gap-9xs: 4px;
+  --gap-5xs: 8px;
+
+  --padding-99xl: 118px;
+  --padding-218xl: 237px;
+  --padding-xl: 20px;
+  --padding-mini: 15px;
+  --padding-5xl: 24px;
+  --padding-3xl: 22px;
+  --padding-75xl: 94px;
+  --padding-42xl: 61px;
+  --padding-20xl: 39px;
+  --padding-24xl: 43px;
+  --padding-base: 16px;
+  --padding-sm: 14px;
+}
